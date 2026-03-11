@@ -26,8 +26,6 @@ Springer LNNS, ICIVC 2025 (Accepted)
 
 ## 🚀 Projects
 
-### Graph-Neural-Network-Heart-Disease
-GCN-based clinical risk prediction system.
 
 ### Multimodal-LLM-Slides-Agent
 Agent-based system converting lecture videos into structured notes using LangChain and Whisper.
